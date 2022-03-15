@@ -1,0 +1,4 @@
+- 👋 Hi, I’m zenetopia
+- 👀 I’m interested in science, religion, and computers
+- 🌱 I’m currently learning physics, math and programming
+- 📫 Reach me at moraesjo@msu.edu
